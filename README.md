@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @jjanjira
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-jjanjira/jjanjira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ฉันชื่อ เจนจิรา ล้อมวงษ์
+ชื่อเล่น ชื่อเจน
+เรียนอยู่ มหาลัยราชภัฎราชนครินทร์
+สาขา การสอนภาษาจีน
+เกิด วันที่ 23 เมษายน 2543
